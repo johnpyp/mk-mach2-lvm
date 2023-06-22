@@ -1,6 +1,6 @@
 # mk-mach2-lvm
 
-A simple script for generating the commands creating volumes on Seagate [EXOS 2X14](https://www.seagate.com/files/www-content/datasheets/pdfs/exos-2x14-DS2015-2-1912US-en_US.pdf)
+A simple script for generating the commands creating volumes on Seagate [Exos 2X14](https://www.seagate.com/files/www-content/datasheets/pdfs/exos-2x14-DS2015-2-1912US-en_US.pdf)
 and [Exos 2X18](https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/datasheets/pdfs/exos-2x18-DS2093-1-2202US-en_US.pdf) (Mach2) dual actuator drives
 
 ## Requirements
